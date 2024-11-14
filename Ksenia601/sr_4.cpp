@@ -9,7 +9,7 @@ int main()
 	cout << "Введiть значеня x= ";
 	cin >> x;
 	y = (2 * x + sin(x)) / ((pow(cos(x), 2) + x * x) + (pow(0.5, x)) / (sqrt(x)));
-	cout << "y= " << y << endl;
+	<< "y= " < y << endl;
 	
 	return 0;
 }
